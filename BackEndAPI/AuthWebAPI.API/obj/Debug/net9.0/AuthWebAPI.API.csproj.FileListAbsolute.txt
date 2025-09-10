@@ -1,0 +1,861 @@
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\appsettings.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.staticwebassets.endpoints.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.exe
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.deps.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.runtimeconfig.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Persistance.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Persistance.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.AssemblyReference.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfoInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.CoreCompileInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\scopedcss\bundle\AuthWebAPI.API.styles.css
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebA.28F76710.Up2Date
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\refint\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.genruntimeconfig.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\ref\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Humanizer.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\appsettings.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.staticwebassets.endpoints.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.exe
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.deps.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.runtimeconfig.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Humanizer.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.AssemblyReference.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfoInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.CoreCompileInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\scopedcss\bundle\AuthWebAPI.API.styles.css
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebA.28F76710.Up2Date
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\refint\AuthWebAPI.API.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.genruntimeconfig.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.API\obj\Debug\net9.0\ref\AuthWebAPI.API.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\appsettings.Development.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\appsettings.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.staticwebassets.endpoints.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.exe
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.deps.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.runtimeconfig.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Azure.Core.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Humanizer.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.AssemblyReference.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfoInputs.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfo.cs
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\scopedcss\bundle\AuthWebAPI.API.styles.css
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebA.28F76710.Up2Date
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\refint\AuthWebAPI.API.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.genruntimeconfig.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.API\obj\Debug\net9.0\ref\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\appsettings.Development.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\appsettings.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.staticwebassets.endpoints.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.exe
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.deps.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.runtimeconfig.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Azure.Core.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Humanizer.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.AssemblyReference.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfoInputs.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfo.cs
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\scopedcss\bundle\AuthWebAPI.API.styles.css
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebA.28F76710.Up2Date
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\refint\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.genruntimeconfig.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\obj\Debug\net9.0\ref\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.API\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\appsettings.Development.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\appsettings.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.staticwebassets.endpoints.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.exe
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.deps.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.runtimeconfig.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.API.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Azure.Core.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Humanizer.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.AssemblyReference.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfoInputs.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.AssemblyInfo.cs
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\scopedcss\bundle\AuthWebAPI.API.styles.css
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebA.28F76710.Up2Date
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\refint\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.genruntimeconfig.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\ref\AuthWebAPI.API.dll

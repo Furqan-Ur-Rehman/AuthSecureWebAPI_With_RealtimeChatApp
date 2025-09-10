@@ -1,0 +1,60 @@
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.deps.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfoInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\refint\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\ref\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.AssemblyReference.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.deps.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.AssemblyReference.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfoInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\refint\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Domain\obj\Debug\net9.0\ref\AuthWebAPI.Domain.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.deps.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.AssemblyReference.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfoInputs.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfo.cs
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\refint\AuthWebAPI.Domain.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Domain\obj\Debug\net9.0\ref\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.deps.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.AssemblyReference.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfoInputs.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfo.cs
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\refint\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.Domain\obj\Debug\net9.0\ref\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.deps.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.AssemblyReference.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfoInputs.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.AssemblyInfo.cs
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\refint\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\ref\AuthWebAPI.Domain.dll

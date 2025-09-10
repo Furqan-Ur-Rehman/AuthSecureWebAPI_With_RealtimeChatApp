@@ -1,0 +1,87 @@
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.deps.json
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebA.347F7765.Up2Date
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\refint\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\ref\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Persistance.dll
+D:\Auth API (Task 1)\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Persistance.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.deps.json
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfo.cs
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebA.347F7765.Up2Date
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\refint\AuthWebAPI.Infrastructure.dll
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\Auth API (Task 1)\AuthWebAPI.API2\AuthWebAPI.Infrastructure\obj\Debug\net9.0\ref\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.deps.json
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfo.cs
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebA.347F7765.Up2Date
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\refint\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI\AuthWebAPI.API\AuthWebAPI.Infrastructure\obj\Debug\net9.0\ref\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.deps.json
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfo.cs
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebA.347F7765.Up2Date
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\refint\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI With Chat App\AuthWebAPI.Infrastructure\obj\Debug\net9.0\ref\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.deps.json
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Application.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\bin\Debug\net9.0\AuthWebAPI.Domain.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.AssemblyInfo.cs
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebA.347F7765.Up2Date
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\refint\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\ref\AuthWebAPI.Infrastructure.dll

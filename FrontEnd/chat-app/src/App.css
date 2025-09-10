@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.msg{
+  
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  margin: 1rem auto;
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  /* overflow-y: scroll; */ 
+  overflow-y: auto;  /* not scroll as above use auto (scroll shows scrollbar always) */
+  /* align-self: end; */
+}
+
+.input_msg{
+  /* display: flex;
+  justify-content: space-between; */
+  /* background-color: rgb(131, 191, 214); */
+  padding: 0.4rem 1rem;
+  width: fit-content;
+  margin-bottom: 1rem;
+  /* display: block; */
+  /* border-radius:30px; */
+  /* opacity: 0.5; */
+  /* align-self: end; */
+  
+}
+
+.message {
+  max-width: 60%;
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-radius: 20px;
+}
+
+.sent {
+  align-self: flex-end;
+  background-color: #8aaed0;
+  color: black;
+  border-bottom-right-radius: 0;
+}
+
+.received {
+  align-self: flex-start;
+  background-color: #e5e5ea;
+  color: black;
+  border-bottom-left-radius: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 2px;
+  }
+  
+/* ::-webkit-scrollbar {
+  width: 0px;
+} */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
