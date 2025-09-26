@@ -27,18 +27,22 @@
   },
   {
     "ContainingType": "AuthWebAPI.API.Controllers.AuthController",
-    "Method": "RefreshToken",
-    "RelativePath": "api/Auth/Refresh-Token",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "refreshtoken",
-        "Type": "AuthWebAPI.Domain.UserDto.RefreshTokenRequestDto",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthWebAPI.API.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/refreshtoken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": [
       {
         "Type": "AuthWebAPI.Domain.UserDto.TokenRegenerateDto",

@@ -34,6 +34,17 @@ function Chat() {
             .withAutomaticReconnect()
             .build();
 
+        // conn.onclose(async () => {
+        //     // Try refreshing and reconnecting
+        //     const email = localStorage.getItem('email');
+        //     const refreshToken = localStorage.getItem('refreshToken');
+        //     const newToken = await refreshToken(email, refreshToken);
+
+        //     await conn.start()
+        //     .then(() => console.log('Connected to SignalR', senderemail))
+        //     .catch(e => console.error('SignalR connection error:', e));; // reconnect with new token
+        // });
+
         conn.start()
             .then(() => console.log('Connected to SignalR', senderemail))
             .catch(e => console.error('SignalR connection error:', e));
@@ -74,7 +85,7 @@ function Chat() {
         if (!connection) return;
         if (!text.trim()) return;
         try {
-            if(senderemail == null)
+            if (senderemail == null)
                 alert("You are not Logged in, Please Logged in First, then Start Chat!")
             // call server hub method
             await connection.invoke('SendMessage', senderemail, receiveremail, text || null);
@@ -88,7 +99,7 @@ function Chat() {
         }
     };
 
-    
+
     return (
         <div>
             <h2 className='App' style={{ fontSize: '30px', color: 'white', fontFamily: 'fantasy' }}>CHAT APP</h2>
@@ -104,7 +115,7 @@ function Chat() {
                         messages.map((m) => {
                             return (
                                 <Fragment key={m.id ?? Math.random()}>
-                                    <div className={`message ${m.sender === senderemail ? "sent" : "received" } input_msg`}  ref={m.id === messages.length - 1 ? messagesRef : null}>
+                                    <div className={`message ${m.sender === senderemail ? "sent" : "received"} input_msg`} ref={m.id === messages.length - 1 ? messagesRef : null}>
                                         <div style={{ fontSize: 17, color: '#555' }}>
                                             <strong>From:{m.sender}</strong>
                                         </div>

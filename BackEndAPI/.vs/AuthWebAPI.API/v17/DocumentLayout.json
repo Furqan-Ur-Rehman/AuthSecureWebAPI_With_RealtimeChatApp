@@ -1,12 +1,216 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A563EA44-82E4-46D0-A21D-FAB87EC43475}|AuthWebAPI.API\\AuthWebAPI.API.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.api\\chathubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A563EA44-82E4-46D0-A21D-FAB87EC43475}|AuthWebAPI.API\\AuthWebAPI.API.csproj|solutionrelative:authwebapi.api\\chathubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A563EA44-82E4-46D0-A21D-FAB87EC43475}|AuthWebAPI.API\\AuthWebAPI.API.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A563EA44-82E4-46D0-A21D-FAB87EC43475}|AuthWebAPI.API\\AuthWebAPI.API.csproj|solutionrelative:authwebapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E886F252-5367-493C-8158-2B071622621A}|AuthWebAPI.Infrastructure\\AuthWebAPI.Infrastructure.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E886F252-5367-493C-8158-2B071622621A}|AuthWebAPI.Infrastructure\\AuthWebAPI.Infrastructure.csproj|solutionrelative:authwebapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|solutionrelative:authwebapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A563EA44-82E4-46D0-A21D-FAB87EC43475}|AuthWebAPI.API\\AuthWebAPI.API.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A563EA44-82E4-46D0-A21D-FAB87EC43475}|AuthWebAPI.API\\AuthWebAPI.API.csproj|solutionrelative:authwebapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.domain\\userdto\\tokenregeneratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|solutionrelative:authwebapi.domain\\userdto\\tokenregeneratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED647E8-9392-46DB-A755-61665E8E8669}|AuthWebAPI.Application\\AuthWebAPI.Application.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED647E8-9392-46DB-A755-61665E8E8669}|AuthWebAPI.Application\\AuthWebAPI.Application.csproj|solutionrelative:authwebapi.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|solutionrelative:authwebapi.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.domain\\userdto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E67A15-FC60-4E36-92D0-BA8C5B68D30A}|AuthWebAPI.Domain\\AuthWebAPI.Domain.csproj|solutionrelative:authwebapi.domain\\userdto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E886F252-5367-493C-8158-2B071622621A}|AuthWebAPI.Infrastructure\\AuthWebAPI.Infrastructure.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.infrastructure\\context\\webapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E886F252-5367-493C-8158-2B071622621A}|AuthWebAPI.Infrastructure\\AuthWebAPI.Infrastructure.csproj|solutionrelative:authwebapi.infrastructure\\context\\webapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E886F252-5367-493C-8158-2B071622621A}|AuthWebAPI.Infrastructure\\AuthWebAPI.Infrastructure.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.infrastructure\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E886F252-5367-493C-8158-2B071622621A}|AuthWebAPI.Infrastructure\\AuthWebAPI.Infrastructure.csproj|solutionrelative:authwebapi.infrastructure\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED647E8-9392-46DB-A755-61665E8E8669}|AuthWebAPI.Application\\AuthWebAPI.Application.csproj|d:\\authwebapi with chat app\\backendapi\\authwebapi.application\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED647E8-9392-46DB-A755-61665E8E8669}|AuthWebAPI.Application\\AuthWebAPI.Application.csproj|solutionrelative:authwebapi.application\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebAPIDbContext.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Infrastructure\\Context\\WebAPIDbContext.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Infrastructure\\Context\\WebAPIDbContext.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Infrastructure\\Context\\WebAPIDbContext.cs",
+              "RelativeToolTip": "AuthWebAPI.Infrastructure\\Context\\WebAPIDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:02:23.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "AuthWebAPI.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:45:27.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenRegenerateDto.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\UserDto\\TokenRegenerateDto.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Domain\\UserDto\\TokenRegenerateDto.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\UserDto\\TokenRegenerateDto.cs",
+              "RelativeToolTip": "AuthWebAPI.Domain\\UserDto\\TokenRegenerateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:40:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AuthWebAPI.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:41:43.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\UserDto\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Domain\\UserDto\\RefreshTokenRequestDto.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Domain\\UserDto\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "AuthWebAPI.Domain\\UserDto\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:49:24.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthWebAPI.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:14:25.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.API\\Chathubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.API\\Chathubs\\ChatHub.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.API\\Chathubs\\ChatHub.cs",
+              "RelativeToolTip": "AuthWebAPI.API\\Chathubs\\ChatHub.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:57:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Infrastructure\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Infrastructure\\Services\\ChatService.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Infrastructure\\Services\\ChatService.cs",
+              "RelativeToolTip": "AuthWebAPI.Infrastructure\\Services\\ChatService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:21:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Application\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Application\\Interfaces\\IChatService.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Application\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "AuthWebAPI.Application\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:21:02.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "AuthWebAPI.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:18:31.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.API\\Program.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.API\\Program.cs",
+              "RelativeToolTip": "AuthWebAPI.API\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:51:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\AuthWebAPI With Chat App\\BackEndAPI\\AuthWebAPI.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthWebAPI.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwHQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:47:13.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

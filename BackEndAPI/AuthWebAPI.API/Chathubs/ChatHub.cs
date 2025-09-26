@@ -57,13 +57,14 @@ namespace AuthWebAPI.API.Chathubs
         // Send a message to specific user
         public async Task SendMessage(string SenderEmail, string ReceiverEmail, string Chats)
         {
+
             if (UserConnections.TryGetValue(ReceiverEmail, out var connectionId))
             {
                 await _chatService.SaveMessageAsync(SenderEmail, ReceiverEmail, Chats);
                 var Current_DateTime1 = DateTime.UtcNow;
                 await Clients.Client(connectionId).SendAsync("ReceiveMessage", Chats, SenderEmail, ReceiverEmail, Current_DateTime1);
             }
-
+             
             // Optionally send to the sender as well (so they see their own message instantly)
             var Current_Datetime2 = DateTime.UtcNow;
             await Clients.Caller
@@ -76,10 +77,6 @@ namespace AuthWebAPI.API.Chathubs
         //    var Current_DateTime = DateTime.UtcNow;
         //    await Clients.All.SendAsync("ReceiveMessage", Chats, SenderEmail, ReceiverEmail, Current_DateTime);
         //}
-
-
-        
-
     } 
     
 }

@@ -36,7 +36,7 @@ function Register() {
 
         <div className="row">
             <div className="col-md-4 m-auto mt-5 bg-white">
-                <div className='bg-dark p-4 text-center text-white mb-4 createdata'>
+                <div className='p-4 text-center text-dark mb-4 createdata'>
                     <h1>Register</h1>
                 </div>
                 <form onSubmit={handleRegister}>

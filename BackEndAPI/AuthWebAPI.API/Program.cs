@@ -1,4 +1,5 @@
 using System;
+using System.Net;
 using System.Text;
 using AuthWebAPI.API;
 using AuthWebAPI.API.Chathubs;
@@ -28,6 +29,7 @@ builder.Services.AddSignalR();
 
 ////Dependency Injection (Life time)
 //builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddWebAPIDI(builder.Configuration);
 //Validate Jwt Token
@@ -51,8 +53,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).
         {
             OnMessageReceived = context =>
             {
-                var accessToken = context.Request.Query["access_token"];
-                var path = context.HttpContext.Request.Path;
+                var accessToken = context.Request.Query["access_token"]; //=>  "eyJ..."
+                var path = context.HttpContext.Request.Path; //=> /chat/negotiate
 
                 // If the request is for our hub...
                 if (!string.IsNullOrEmpty(accessToken) && path.StartsWithSegments("/chat"))
@@ -70,13 +72,13 @@ builder.Services.AddAuthorizationBuilder()
 
 // CORS — allow local react dev server
 builder.Services.AddCors(options =>
-{
+{   
     options.AddDefaultPolicy(policy =>
     {
         policy.WithOrigins("http://localhost:3000")
         .AllowAnyHeader()
         .AllowAnyMethod()
-        .AllowCredentials();
+        .AllowCredentials(); //allows sending cookies
     });
 });
 
@@ -102,18 +104,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapHub<ChatHub>("/chat");
-
-//var connection = new HubConnectionBuilder()
-//    .WithUrl("/chat");
-//.Build();
-
-
-// 3. Handle ReceiveMessage
-//object value = connection.On<string, string>("ReceiveMessage", (user, message) =>
-//{
-//    Console.WriteLine($"{user}: {message}");
-//});
-
-//connection.StartAsync();
-//Console.WriteLine("Connected to server. Waiting for messages...");
 app.Run();

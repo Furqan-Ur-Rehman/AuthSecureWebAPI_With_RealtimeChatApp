@@ -23,9 +23,7 @@ namespace AuthWebAPI.Domain.Entities
         [StringLength(255, ErrorMessage = "Password should be or less than 255 Characters.")]
         [DataType(DataType.Password)]
         public string PasswordHash { get; set; } = default!;
-
         public string Roles { get; set; } = "User";
-        public string RefreshToken { get; set; } = string.Empty;
-        public DateTime RefreshTokenExpiry { get; set; } = default!;
+        
     }
 }

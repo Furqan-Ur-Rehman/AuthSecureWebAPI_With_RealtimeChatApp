@@ -58,3 +58,4 @@ D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWe
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\refint\AuthWebAPI.Domain.dll
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.pdb
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\ref\AuthWebAPI.Domain.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Domain\obj\Debug\net9.0\AuthWebAPI.Domain.sourcelink.json

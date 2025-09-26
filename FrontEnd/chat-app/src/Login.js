@@ -17,10 +17,10 @@ function Login() {
             username,
             email,
             password
-        }, {
+            }, {
             headers: { "Content-Type": "application/json" }
-
-        }).then((e) => {
+            }
+        ).then((e) => {
             // console.log(res)
             console.log(e)
             localStorage.setItem("jwt", e.data.accessToken);
@@ -41,7 +41,7 @@ function Login() {
 
         <div className="row">
             <div className="col-md-4 m-auto mt-5 bg-white">
-                <div className='bg-dark p-4 text-center text-white font-weight-bold mb-4 createdata'>
+                <div className='p-4 text-center text-dark font-weight-bold mb-4 createdata'>
                     <h1>Login</h1>
                 </div>
                 <form onSubmit={handleLogin}>

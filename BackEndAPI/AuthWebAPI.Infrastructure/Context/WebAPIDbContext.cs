@@ -12,6 +12,7 @@ namespace AuthWebAPI.Persistance.Context
     {
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<RefreshToken> RefreshTokens { get; set; }
         public virtual DbSet<ChatData> Chats { get; set; }
         public virtual DbSet<ChatGroup> ChatGroups { get; set; }
         public virtual DbSet<GroupMembership> GroupMemberships { get; set; }

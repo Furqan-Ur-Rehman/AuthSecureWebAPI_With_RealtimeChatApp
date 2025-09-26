@@ -7,6 +7,7 @@ namespace AuthWebAPI.API.Controllers
     {
         Task<User?> RegisterAsync(UserDto userDto);
         Task<TokenRegenerateDto?> LoginAsync(UserDto userDto);
-        Task<TokenRegenerateDto?> RefreshTokenAsync(RefreshTokenRequestDto refreshtoken);
+        Task<TokenRegenerateDto?> RefreshTokenAsync(string Plainrefreshtoken);
+        Task<string> LogoutAsync(string PlainToken);
     }
 }

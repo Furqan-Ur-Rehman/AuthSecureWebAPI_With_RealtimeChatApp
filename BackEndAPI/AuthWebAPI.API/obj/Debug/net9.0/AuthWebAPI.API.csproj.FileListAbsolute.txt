@@ -859,3 +859,4 @@ D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\refint\Au
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.pdb
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.genruntimeconfig.cache
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\ref\AuthWebAPI.API.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.API\obj\Debug\net9.0\AuthWebAPI.API.sourcelink.json

@@ -85,3 +85,4 @@ D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\refint\AuthWebAPI.Infrastructure.dll
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.pdb
 D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\ref\AuthWebAPI.Infrastructure.dll
+D:\AuthWebAPI With Chat App\BackEndAPI\AuthWebAPI.Infrastructure\obj\Debug\net9.0\AuthWebAPI.Infrastructure.sourcelink.json
