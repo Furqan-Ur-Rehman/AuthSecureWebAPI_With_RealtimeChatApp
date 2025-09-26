@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthWebAPI.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e1e57eb1549ecf8c1147fecb8e93111e880062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb8f9deccfaf584dfc8c5ef9cf01d2df00f0c36")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthWebAPI.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthWebAPI.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
